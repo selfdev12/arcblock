@@ -1,0 +1,10 @@
+https://github.com/selfdev12/arcblock.git
+
+How to run:
+	python GetTopnFromUrl.py url N
+
+1. python GetTopnFromUrl.py https://gist.githubusercontent.com/tyrchen/32c50aadca48aee3da10a77a18479517/raw/3aa07629e61239cd26cf514584c949a98aa38d67/movies.csv 6
+
+2. python GetTopnFromUrl.py https://gist.githubusercontent.com/tyrchen/32c50aadca48aee3da10a77a18479517/raw/3aa07629e61239cd26cf514584c949a98aa38d67/movies.csv 1100
+
+
